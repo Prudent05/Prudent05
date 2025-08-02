@@ -69,7 +69,7 @@ Developed a Python-based terminal game with basic AI logic for move prediction
 
 ## 🏆 Certifications & Achievements
 - 🧠 Machine Learning Foundations Certificate – Break Through Tech AI
-- 💡 Winner – HBCU-5 Innovation Challenge (Delta Windora Climate Tech Greenhouse Project)
+- 💡 HBCU-5 Innovation Challenge (Delta Windora Climate Tech Greenhouse Project)
 - 🥇 Best in Further Mathematics – High School Honors
 - 🎓 Provost Academic Scholarship Recipient – Jackson State University
 
