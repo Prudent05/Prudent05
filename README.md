@@ -33,7 +33,10 @@ I’m also a research assistant working on **pose estimation with DeepLabCut** t
 
 **💡 Takeaway:** Demonstrated how machine learning can uncover patterns in real-world data and help platforms enhance user trust and experience through predictive insights.
 
-🔗 [Project Repository (Coming Soon!)](#)
+## 🎓 eCornell Machine Learning Portfolio
+
+Check out my coursework and applied machine learning projects from the eCornell certification program.  
+📁 [View the portfolio repository](https://github.com/Prudent05/my-eCornell-portfolio
 
 ---
 
