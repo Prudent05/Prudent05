@@ -1,16 +1,4 @@
 
----
-
-# 🖼️ **Banner A — Name + AI Theme**
-
-```md
-<p align="center">
-  <img src="assets/banner-main.png" alt="Ebuka Prudence Uzoama — AI & Machine Learning Researcher" width="100%">
-</p>
-```
-
----
-
 # 👋 Hi, I’m **Ebuka Prudence Uzoama**
 
 🎓 **Honors Computer Science Student** — Jackson State University
@@ -30,15 +18,6 @@
 ---
 
 # 🌟 Featured Project
-
-# 🖼️ **Banner B — Project Title Banner**
-
-
-```md
-<p align="center">
-  <img src="assets/banner-featured.png" alt="Language Model Evaluation and Chatbot Enhancement" width="100%">
-</p>
-```
 
 ## 🧠 **Language Model Evaluation and Chatbot Enhancement**
 
