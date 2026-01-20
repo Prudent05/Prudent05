@@ -35,7 +35,7 @@
 *A responsive website showcasing my background, skills, and projects.*
 
 🔗 Live Site: https://prudence-personal-portfolio.netlify.app  
-🔗 Repo: *(pin this repo)*  
+🔗 Repo: [*(pin this repo)*](https://github.com/Prudent05/Personal-Portfolio-Website)  
 🛠 **HTML, CSS, JavaScript, Google Apps Script**  
 💡 Includes downloadable resume, contact form, and responsive design
 
