@@ -45,6 +45,7 @@
 
 | Repository | Description | Tools |
 |-----------|------------|-------|
+| **cf_ai_systems_reflector** | AI-powered chat app for explaining technical systems (Cloudflare Workers AI) | JavaScript, Cloudflare Workers, Workers AI |
 | **btt-anote1a** | Multilingual evaluation pipeline for LLM chatbots | Python, BLEU, BERTScore |
 | **multi-model-network-detection** | Classification of benign vs malicious network traffic | Python, scikit-learn, XGBoost |
 | **rodent-pain-pose-estimation** *(coming)* | AI-based behavior quantification for neuroscience research | DeepLabCut, ResNet-50 |
